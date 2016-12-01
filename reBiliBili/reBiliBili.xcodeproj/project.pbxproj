@@ -15,6 +15,7 @@
 		890D25EF1DEFFDC4004B3A0E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 890D25ED1DEFFDC4004B3A0E /* LaunchScreen.storyboard */; };
 		890D25FA1DEFFDC4004B3A0E /* reBiliBiliTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 890D25F91DEFFDC4004B3A0E /* reBiliBiliTests.m */; };
 		890D26051DEFFDC4004B3A0E /* reBiliBiliUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 890D26041DEFFDC4004B3A0E /* reBiliBiliUITests.m */; };
+		890D26141DF006B7004B3A0E /* hiulwdbafc.m in Sources */ = {isa = PBXBuildFile; fileRef = 890D26131DF006B7004B3A0E /* hiulwdbafc.m */; };
 		C59C225D1DF003DA002AD225 /* dfsef.m in Sources */ = {isa = PBXBuildFile; fileRef = C59C225C1DF003DA002AD225 /* dfsef.m */; };
 /* End PBXBuildFile section */
 
@@ -52,6 +53,8 @@
 		890D26001DEFFDC4004B3A0E /* reBiliBiliUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = reBiliBiliUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		890D26041DEFFDC4004B3A0E /* reBiliBiliUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = reBiliBiliUITests.m; sourceTree = "<group>"; };
 		890D26061DEFFDC4004B3A0E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		890D26121DF006B7004B3A0E /* hiulwdbafc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = hiulwdbafc.h; sourceTree = "<group>"; };
+		890D26131DF006B7004B3A0E /* hiulwdbafc.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = hiulwdbafc.m; sourceTree = "<group>"; };
 		C59C225B1DF003DA002AD225 /* dfsef.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = dfsef.h; sourceTree = "<group>"; };
 		C59C225C1DF003DA002AD225 /* dfsef.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = dfsef.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -110,6 +113,8 @@
 				890D25E61DEFFDC4004B3A0E /* ViewController.m */,
 				C59C225B1DF003DA002AD225 /* dfsef.h */,
 				C59C225C1DF003DA002AD225 /* dfsef.m */,
+				890D26121DF006B7004B3A0E /* hiulwdbafc.h */,
+				890D26131DF006B7004B3A0E /* hiulwdbafc.m */,
 				890D25E81DEFFDC4004B3A0E /* Main.storyboard */,
 				890D25EB1DEFFDC4004B3A0E /* Assets.xcassets */,
 				890D25ED1DEFFDC4004B3A0E /* LaunchScreen.storyboard */,
@@ -282,6 +287,7 @@
 				890D25E41DEFFDC4004B3A0E /* AppDelegate.m in Sources */,
 				C59C225D1DF003DA002AD225 /* dfsef.m in Sources */,
 				890D25E11DEFFDC4004B3A0E /* main.m in Sources */,
+				890D26141DF006B7004B3A0E /* hiulwdbafc.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
